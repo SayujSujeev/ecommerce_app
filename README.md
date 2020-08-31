@@ -1,6 +1,6 @@
 # ecommerce_app
 
-A new Flutter wcommerce application.
+A new Flutter ecommerce application.
 
 ## Getting Started
 
